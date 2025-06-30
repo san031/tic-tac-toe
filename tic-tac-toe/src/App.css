@@ -1,0 +1,66 @@
+
+.gimmeborder{
+    /* border : 1px solid white; */
+    width: 100%;
+    /* margin: 0.85rem; */
+    /* padding: 1.5pt; */
+    /* outline: none; */
+    box-sizing: border-box;
+    
+}
+
+.row1{
+    border-right: 1px;
+    border-bottom: 1px ;
+    padding: 3.25rem;
+}
+.row2{
+    border-top:1px;
+    border-right: 1px;
+    border-bottom: 1px;
+    padding: 3.25rem;
+
+}
+.row3{
+    border-top: 1px; 
+    border-right: 1px;
+    padding: 3.25rem;
+}
+
+.row4{
+    border-left: 1px;
+    border-bottom: 1px;
+    border-right: 1px; 
+    padding: 3.25rem;
+}
+
+.row5{
+    border: 1px;
+    padding: 3.25rem;
+}
+
+.row6{
+    border-top: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    padding: 3.25rem;
+}
+
+.row7{
+    border-left: 1px;
+    border-bottom: 1px;
+    padding: 3.25rem;
+}
+
+.row8{
+    border-bottom: 1px;
+    border-left: 1px;
+    padding: 3.25rem;
+
+}
+
+.row9{
+    border-top: 1px;
+    border-left: 1px;
+    padding: 3.25rem;
+}
